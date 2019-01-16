@@ -1,0 +1,14 @@
+{
+  "name": "offline-apps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "author": "Swati Sucharita",
+  "license": "ISC",
+  "private": false,
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}

@@ -1,0 +1,25 @@
+body {
+    font-family: cursive;
+}
+
+.page-content .flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 10px;
+}
+
+.page-content .flex-container .main-photo {
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.page-content .flex-container .description {
+    padding: 20px;
+    font-family: cursive;
+    max-width: 60%;
+}
+
+.page-content .flex-container .description h5 {
+    font-family: cursive;
+}
